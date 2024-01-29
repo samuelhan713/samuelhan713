@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**samuelhan713/samuelhan713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Sam and I'm a computer science student from New York.
 
-Here are some ideas to get you started:
+⚡️Work Experience:
+- **Software Tester / IT Intern at Wayne Inc.**
+  - Open source OS project contribution by reading and analyzing code written in C++ and python to test and identify defects on developing operating system.
+  - Performed data migration from GitLab to GitHub using Git Large File Storage (LFS)
+  - Performed hardware compatibility testing for given OS – analyzed specifications of computers using Linux commands to test the developing OS compatibility with the computer.
+- **Front-end Software Engineer at 4STEC**
+  - Front end development in the RFID / IoT Records Management team: created the main page and subsidiary pages from scratch using React, Redux, and Material UI for a railroad monitoring system, a B2B platform.
+  - Integrated Axios with the application's state management system to handle data fetching and updates seamlessly.
+  - Utilized SASS for design to create an efficient and responsive UI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🌱Interests:
+ - Web development
+ - Creating content (YouTube)
+
+💬 Reach me by email or LinkedIn! samuelhan.s713@gmail.com | https://www.linkedin.com/in/samuel-seukhyun-han/
+
+📫 Visit my website: https://samuel-han.netlify.app/
