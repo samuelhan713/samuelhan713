@@ -2,7 +2,7 @@
 
 My name is Sam and I'm a computer science student from New York.
 
-⚡️Work Experience:
+⚡️ Work Experience:
 - **Software Tester / IT Intern at Wayne Inc.**
   - Open source OS project contribution by reading and analyzing code written in C++ and python to test and identify defects on developing operating system.
   - Performed data migration from GitLab to GitHub using Git Large File Storage (LFS)
@@ -12,7 +12,7 @@ My name is Sam and I'm a computer science student from New York.
   - Integrated Axios with the application's state management system to handle data fetching and updates seamlessly.
   - Utilized SASS for design to create an efficient and responsive UI.
 
- 🌱Interests:
+ 🌱 Interests:
  - Web development
  - Creating content (YouTube)
 
