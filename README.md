@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sam and I'm a computer science student from New York.
+My name is Sam and I'm a computer science student in New York.
 
 ⚡️ Work Experience:
 - **Software Engineer Intern @ Some company (current)**
