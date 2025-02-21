@@ -21,4 +21,4 @@ My name is Sam and I'm a computer science student in New York.
 
 💬 Reach me by email or LinkedIn! samuelhan.s713@gmail.com | https://www.linkedin.com/in/samuel-seukhyun-han/
 
-📫 Visit my website: https://samuel-han.netlify.app/
+📫 Visit my website: [https://samuel-han.netlify.app/](https://samuelhan-com-w78b.vercel.app/)
