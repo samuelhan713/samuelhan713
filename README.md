@@ -3,7 +3,18 @@
 My name is Sam and I'm a computer science student in New York.
 
 ⚡️ Work Experience:
-- **Software Engineer Intern @ Some company (current)**
+- **Founder/Software Engineer @ Klink**
+  - Leads a team of six to build a platform designed to help small influencers connect, collaborate, and expand their online
+presence, currently supporting a community of 300+ users.
+  - Developed a full-stack web application using Next.js with TypeScript, Socket.IO, Node.js+Express.js, and Firebase Cloud Functions, with features such as a user discovery page, connection requests, and real-time chat on a dedicated server, enabling users to connect and communicate seamlessly. Developed the mobile app version using React Native.
+  - Marketed the platform through social media, growing the user base by 300%.
+
+- **Software Engineer @ Dosety**
+  - Built and optimized front-end pages using React, Chakra UI, and TypeScript, improving UI performance and accessibility.
+  - Implemented automated testing using Cypress for end-to-end testing and Jest for unit testing, ensuring robust application
+functionality, reducing bugs, and improving code reliability.
+
+- **Software Engineer Intern @ Rubin and Rothman**
   - Java Spring Boot, React
 - **Software Tester / IT Intern @ Wayne Inc.**
   - Open source OS project contribution by reading and analyzing code written in C++ and python to test and identify defects on developing operating system.
