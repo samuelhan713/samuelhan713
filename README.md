@@ -32,4 +32,4 @@ functionality, reducing bugs, and improving code reliability.
 
 💬 Reach me by email or LinkedIn! samuelhan.s713@gmail.com | https://www.linkedin.com/in/samuel-seukhyun-han/
 
-📫 Visit my website: [https://samuel-han.netlify.app/](https://samuelhan-com-w78b.vercel.app/)
+📫 Visit my website: [Here!](https://samuelhan-com-w78b.vercel.app/)
