@@ -30,6 +30,6 @@ functionality, reducing bugs, and improving code reliability.
  - Web development
  - Creating content (YouTube)
 
-💬 Reach me by email or LinkedIn! samuelhan.s713@gmail.com | https://www.linkedin.com/in/samuel-seukhyun-han/
+💬 Reach me by email! samuelhan.s713@gmail.com
 
 📫 Visit my website: [Here!](https://samuelhan-com-w78b.vercel.app/)
