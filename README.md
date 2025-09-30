@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sam and I'm a computer science student in New York.
+My name is Sam and I'm a swe at a big tech company in nyc.
 
 ⚡️ Work Experience:
 - **Founder/Software Engineer @ Klink**
